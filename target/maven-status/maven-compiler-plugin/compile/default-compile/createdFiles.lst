@@ -1,0 +1,4 @@
+com\mycompany\biblivre\model\Livre.class
+com\mycompany\biblivre\rest\LivreResource.class
+com\mycompany\biblivre\config\ApplicationConfig.class
+com\mycompany\biblivre\bd\BibliothequeBD.class
